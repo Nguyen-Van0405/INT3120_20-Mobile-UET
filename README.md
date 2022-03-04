@@ -9,7 +9,7 @@
 - Bài 4: Kiến trúc Flutter: Widgets, Gestures, State, Layer
 - Bài 5: Ngôn ngữ Dart
 - Bài 6: Widgets trong Flutter
-- 
+
 Sửa giao diện:
 
 ![image](https://user-images.githubusercontent.com/63278123/156691705-c8bb0679-9d0a-40eb-8210-948de2e5dded.png)
