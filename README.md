@@ -10,6 +10,6 @@
 - Bài 5: Ngôn ngữ Dart
 - Bài 6: Widgets trong Flutter
 Sửa giao diện:
-![image](https://user-images.githubusercontent.com/63278123/156691471-e12df642-d5b7-40dd-85a8-4a804d1b7295.png)
+![image](https://user-images.githubusercontent.com/63278123/156691626-2efa3c87-0c2b-4e95-82bf-432bd70d38c9.png)
 
 - Bài 7: Layout trong Flutter
