@@ -13,5 +13,7 @@
 Sửa giao diện:
 
 ![image](https://user-images.githubusercontent.com/63278123/156691705-c8bb0679-9d0a-40eb-8210-948de2e5dded.png)
+![image](https://user-images.githubusercontent.com/63278123/156719378-556d8d36-274a-43c1-92c6-fa7861c02242.png)
+
 
 - Bài 7: Layout trong Flutter
