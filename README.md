@@ -37,3 +37,11 @@ Sửa giao diện:
 Chạm vào một trong các món ăn
 
 ![image](https://user-images.githubusercontent.com/63278123/157590088-f356ed7d-5636-46dc-99d7-2675ca8d2920.png)
+
+- Bài 13: Animation
+
+- Bài 14: native Android
+
+- Bài 15: native iOS
+
+- Bài 16: Package
