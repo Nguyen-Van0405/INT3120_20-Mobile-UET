@@ -29,7 +29,7 @@ Sửa giao diện:
 ![image](https://user-images.githubusercontent.com/63278123/157584890-63d790a6-522c-44ca-a4da-f388f8dd2489.png)
 
 - Bài 11: ScopedModel
-- 
+
 - Bài 12: Navigator và Routing
 
 ![image](https://user-images.githubusercontent.com/63278123/157590038-488bcf83-1d5b-4746-8b54-520987b9d788.png)
