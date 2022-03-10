@@ -19,7 +19,9 @@ Sửa giao diện:
 ![image](https://user-images.githubusercontent.com/63278123/157584823-2ec1d95b-ce89-413e-a5ef-9ae585663d7e.png)
 
 Bài 8: Gesture (cử chỉ)
+
 Bài 9: Quản lý trạng thái: gồm 2 loại là trạng thái ngắn hạn và trạng thái trong toàn bộ ứng dụng
+
 Bài 10: Quản lý trạng thái ngắn hạn
 Đánh giá sản phẩm:
 
