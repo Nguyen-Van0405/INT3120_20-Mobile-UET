@@ -18,12 +18,22 @@ Sửa giao diện:
 
 ![image](https://user-images.githubusercontent.com/63278123/157584823-2ec1d95b-ce89-413e-a5ef-9ae585663d7e.png)
 
-Bài 8: Gesture (cử chỉ)
+- Bài 8: Gesture (cử chỉ)
 
-Bài 9: Quản lý trạng thái: gồm 2 loại là trạng thái ngắn hạn và trạng thái trong toàn bộ ứng dụng
+- Bài 9: Quản lý trạng thái: gồm 2 loại là trạng thái ngắn hạn và trạng thái trong toàn bộ ứng dụng
 
-Bài 10: Quản lý trạng thái ngắn hạn
+- Bài 10: Quản lý trạng thái ngắn hạn
 
 Đánh giá sản phẩm:
 
 ![image](https://user-images.githubusercontent.com/63278123/157584890-63d790a6-522c-44ca-a4da-f388f8dd2489.png)
+
+- Bài 11: ScopedModel
+- 
+- Bài 12: Navigator và Routing
+
+![image](https://user-images.githubusercontent.com/63278123/157590038-488bcf83-1d5b-4746-8b54-520987b9d788.png)
+
+Chạm vào một trong các món ăn
+
+![image](https://user-images.githubusercontent.com/63278123/157590088-f356ed7d-5636-46dc-99d7-2675ca8d2920.png)
