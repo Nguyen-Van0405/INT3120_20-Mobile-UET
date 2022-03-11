@@ -52,6 +52,7 @@ Chạm vào một trong các món ăn
 
 - Bài 19: Đổi ngôn ngữ
 
-![image](https://user-images.githubusercontent.com/63278123/157793543-c6c7391b-06cf-432a-8040-a07d56a5555c.png)
+![image](https://user-images.githubusercontent.com/63278123/157793966-de640a78-4b3b-4417-91a5-feb1ca5f6b87.png)
+
 
 
