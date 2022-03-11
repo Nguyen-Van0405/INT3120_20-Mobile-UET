@@ -45,3 +45,13 @@ Chạm vào một trong các món ăn
 - Bài 15: native iOS
 
 - Bài 16: Package
+
+- Bài 17: REST API
+
+- Bài 18: Database
+
+- Bài 19: Đổi ngôn ngữ
+
+![image](https://user-images.githubusercontent.com/63278123/157793543-c6c7391b-06cf-432a-8040-a07d56a5555c.png)
+
+
